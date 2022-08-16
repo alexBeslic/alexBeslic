@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Aleksanda Bešlić (@alexBeslic)
+- 👋 Hi, I’m Aleksandar Bešlić (@alexBeslic)
 - 📫 How to reach me beslic.alex@gmail.com
